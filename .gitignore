@@ -1,0 +1,12 @@
+# For OSX
+.DS_Store
+
+# SCons generated DB files
+.sconsign*
+
+# Vim temporary files
+*.swp
+
+# Cpp Object and Lib files
+*.a
+*.o
